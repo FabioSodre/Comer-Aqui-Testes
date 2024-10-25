@@ -1,1 +1,1 @@
-#Projeto de testes automatizados do delivery APP ComerAqui
+# Projeto de testes automatizados do delivery APP ComerAqui
