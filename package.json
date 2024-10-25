@@ -1,0 +1,19 @@
+{
+  "name": "comer-aqui-gerence",
+  "version": "1.0.0",
+  "description": "Testes no Comeraqui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabio Sodre",
+  "license": "ISC",
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.40.2",
+    "allure-commandline": "^2.29.0",
+    "cypress": "12.2.0",
+    "cypress-xpath": "^2.0.1",
+    "http-server": "^14.1.1"
+  }
+}
